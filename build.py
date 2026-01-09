@@ -3,7 +3,7 @@
 
 import os
 import shutil
-import sys
+import system
 
 # command to use for os.system
 LATEX = "pdflatex -interaction=nonstopmode"
